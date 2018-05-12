@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40355
     wikipedia: http://en.wikipedia.org/wiki/Addison_Peale_Russell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39997#Library-Notes
 gutenberg_issued: '2012-06-15'
 gutenberg_type: Text
 identifiers:
